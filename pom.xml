@@ -7,7 +7,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>io.aklivity.sandbox</groupId>
   <artifactId>parent</artifactId>
-  <version>0.2</version>
+  <version>0.3</version>
   <packaging>pom</packaging>
   <name>Sandbox</name>
   <url>https://github.com/aklivity/sandbox</url>
