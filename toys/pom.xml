@@ -8,7 +8,7 @@
   <parent>
     <groupId>io.aklivity</groupId>
     <artifactId>sandbox</artifactId>
-    <version>develop-SNAPSHOT</version>
+    <version>0.1</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
